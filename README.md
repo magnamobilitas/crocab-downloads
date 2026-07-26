@@ -8,10 +8,10 @@ tvrtke Mobilitas Magna j.d.o.o.
 
 ## Aktualna izdanja
 
-- **CroCab 1.0.0 build 4**:
-  [preuzmi korisničku aplikaciju](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.0.0-build4/CroCab-1.0.0-build4.apk)
-- **CroCab Driver 1.0.0 build 3**:
-  [preuzmi aplikaciju za vozača](https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.0.0-build3/CroCab-Driver-1.0.0-build3.apk)
+- **CroCab 1.0.0 build 5**:
+  [preuzmi korisničku aplikaciju](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.0.0-build5/CroCab-1.0.0-build5.apk)
+- **CroCab Driver 1.0.0 build 4**:
+  [preuzmi aplikaciju za vozača](https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.0.0-build4/CroCab-Driver-1.0.0-build4.apk)
 
 APK datoteke nalaze se u odjeljku
 [Releases](https://github.com/magnamobilitas/crocab-downloads/releases).
