@@ -1,0 +1,40 @@
+name: Download index CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Validate public release manifest
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const manifest = JSON.parse(fs.readFileSync("releases.json", "utf8"));
+          if (manifest.schemaVersion !== 1) throw new Error("Unsupported schema.");
+          for (const [kind, release] of Object.entries(manifest.products || {})) {
+            if (!["customer", "driver"].includes(kind)) {
+              throw new Error(`Private product in public manifest: ${kind}`);
+            }
+            if (!Number.isInteger(release.build) || release.build < 1) {
+              throw new Error(`Invalid build for ${kind}`);
+            }
+            if (!/^https:\/\/github\.com\/magnamobilitas\/crocab-downloads\/releases\/download\//.test(release.downloadUrl)) {
+              throw new Error(`Invalid download URL for ${kind}`);
+            }
+            if (!/^[a-f0-9]{64}$/.test(release.sha256)) {
+              throw new Error(`Invalid SHA-256 for ${kind}`);
+            }
+          }
+          NODE
