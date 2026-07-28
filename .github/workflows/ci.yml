@@ -24,7 +24,7 @@ jobs:
           const manifest = JSON.parse(fs.readFileSync("releases.json", "utf8"));
           if (manifest.schemaVersion !== 1) throw new Error("Unsupported schema.");
           for (const [kind, release] of Object.entries(manifest.products || {})) {
-            if (!["customer", "driver"].includes(kind)) {
+            if (!["customer", "driver", "dispatch"].includes(kind)) {
               throw new Error(`Private product in public manifest: ${kind}`);
             }
             if (!Number.isInteger(release.build) || release.build < 1) {
