@@ -7,9 +7,9 @@ distribuciju potpisanih CroCab Android APK datoteka.
 
 | Aplikacija | Verzija | Namjena | Preuzimanje |
 | --- | --- | --- | --- |
-| CroCab | 1.5.3 (build 16) | Korisnici – naručivanje i rezerviranje vožnje | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.3-build16/CroCab-1.5.3-build16.apk) |
+| CroCab | 1.5.5 (build 18) | Korisnici – naručivanje i rezerviranje vožnje | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.5-build18/CroCab-1.5.5-build18.apk) |
 | CroCab Driver | 1.4.1 (build 13) | Ovlašteni CroCab vozači | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.4.1-build13/CroCab-Driver-1.4.1-build13.apk) |
-| CroCab Dispatch | 1.1.4 (build 13) | Ovlašteni dispečeri i administratori | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.1.4-build13/CroCab-Dispatch-1.1.4-build13.apk) |
+| CroCab Dispatch | 1.1.6 (build 15) | Ovlašteni dispečeri i administratori | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.1.6-build15/CroCab-Dispatch-1.1.6-build15.apk) |
 
 Sva izdanja i bilješke dostupni su u odjeljku
 [Releases](https://github.com/magnamobilitas/crocab-downloads/releases).
@@ -28,14 +28,14 @@ Sva izdanja i bilješke dostupni su u odjeljku
 <summary>SHA-256 kontrolni zbrojevi</summary>
 
 ```text
-CroCab-1.5.3-build16.apk
-d7d6114b0459e639c9641b5e583e47d5607ac7e2ee3ba9a9413ad21d22240ac7
+CroCab-1.5.5-build18.apk
+05ed856200ae8ed80410be6b7d569ab35a549436158a94331b5b6f131edf359c
 
 CroCab-Driver-1.4.1-build13.apk
 b068666d68759f7a6e24b2dda90e83b61b28d23d0e36b5c08fc06c4d70cea58c
 
-CroCab-Dispatch-1.1.4-build13.apk
-258a66ef6a9878010630a14d193ee7a7d754da63e5f6d9a1e5aa89896738ceab
+CroCab-Dispatch-1.1.6-build15.apk
+510d22a5ad626707d46acbfa84ea6ec53130b61dedbcafdb5229c6701980b894
 ```
 
 </details>
