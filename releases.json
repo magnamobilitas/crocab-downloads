@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T07:57:57Z",
+  "updatedAt": "2026-08-12T09:35:00Z",
   "products": {
     "customer": {
       "displayName": "CroCab",
-      "version": "1.5.14",
-      "build": 27,
-      "tag": "crocab-v1.5.14-build27",
-      "asset": "CroCab-1.5.14-build27.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.14-build27/CroCab-1.5.14-build27.apk",
-      "sha256": "7c1a2b4226bb9a12ed7bb31eb7b0939a90a9b6e5264fc16d6a5e811b49b749c0"
+      "version": "1.5.15",
+      "build": 28,
+      "tag": "crocab-v1.5.15-build28",
+      "asset": "CroCab-1.5.15-build28.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.15-build28/CroCab-1.5.15-build28.apk",
+      "sha256": "839a8e3aef635ea61c05763f59902033b8c6dbb4504cee7e40dd01cf232240db"
     },
     "driver": {
       "displayName": "CroCab Driver",
-      "version": "1.4.10",
-      "build": 22,
-      "tag": "driver-v1.4.10-build22",
-      "asset": "CroCab-Driver-1.4.10-build22.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.4.10-build22/CroCab-Driver-1.4.10-build22.apk",
-      "sha256": "557ab412e1de891c3b8b80bd4d6d33541c788e5cc08206af8ca77d9773fcbfdc"
+      "version": "1.4.11",
+      "build": 23,
+      "tag": "driver-v1.4.11-build23",
+      "asset": "CroCab-Driver-1.4.11-build23.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.4.11-build23/CroCab-Driver-1.4.11-build23.apk",
+      "sha256": "558eebd577fe40bb06081b6a867e7ad2c1dddca20d17e7491b7f9f125e924ea8"
     },
     "dispatch": {
       "displayName": "CroCab Dispatch",
-      "version": "1.1.14",
-      "build": 23,
-      "tag": "dispatch-v1.1.14-build23",
-      "asset": "CroCab-Dispatch-1.1.14-build23.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.1.14-build23/CroCab-Dispatch-1.1.14-build23.apk",
-      "sha256": "6233c78b0d586344c31e855eb697aa5cf2e16c4298b46dd3edf5865aa2aa3694"
+      "version": "1.1.15",
+      "build": 24,
+      "tag": "dispatch-v1.1.15-build24",
+      "asset": "CroCab-Dispatch-1.1.15-build24.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.1.15-build24/CroCab-Dispatch-1.1.15-build24.apk",
+      "sha256": "9a02143d5436fa1e1f3f5287952ac15f34639672a02643331f8203d3c94d6687"
     }
   }
 }
