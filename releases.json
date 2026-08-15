@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T19:42:56Z",
+  "updatedAt": "2026-08-15T01:11:01Z",
   "products": {
     "customer": {
       "displayName": "CroCab",
-      "version": "1.5.20",
-      "build": 33,
-      "tag": "crocab-v1.5.20-build33",
-      "asset": "CroCab-1.5.20-build33.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.20-build33/CroCab-1.5.20-build33.apk",
-      "sha256": "911aebb48b8b2d7bd9534028bfc311b86e18be685593265644c2130d71a00ff8"
+      "version": "1.5.21",
+      "build": 34,
+      "tag": "crocab-v1.5.21-build34",
+      "asset": "CroCab-1.5.21-build34.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.21-build34/CroCab-1.5.21-build34.apk",
+      "sha256": "b64f92ca875a02290b4e260e5c0e8fd37a124564a2626c122150540f5cfbd46b"
     },
     "driver": {
       "displayName": "CroCab Driver",
-      "version": "1.4.21",
-      "build": 33,
-      "tag": "driver-v1.4.21-build33",
-      "asset": "CroCab-Driver-1.4.21-build33.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.4.21-build33/CroCab-Driver-1.4.21-build33.apk",
-      "sha256": "39a9b22849cc5a62fb8f4d3f71d66a9bb61752914c610649d42c3030c9cc4770"
+      "version": "1.4.22",
+      "build": 34,
+      "tag": "driver-v1.4.22-build34",
+      "asset": "CroCab-Driver-1.4.22-build34.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.4.22-build34/CroCab-Driver-1.4.22-build34.apk",
+      "sha256": "1cc20254d781178704124f6135eedf0ac11e3b859d245c129935b0e9a4fb31e4"
     },
     "dispatch": {
       "displayName": "CroCab Dispatch",
