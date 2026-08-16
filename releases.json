@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T17:45:50Z",
+  "updatedAt": "2026-08-16T21:28:04Z",
   "products": {
     "customer": {
       "displayName": "CroCab",
@@ -22,12 +22,12 @@
     },
     "dispatch": {
       "displayName": "CroCab Dispatch",
-      "version": "1.1.21",
-      "build": 30,
-      "tag": "dispatch-v1.1.21-build30",
-      "asset": "CroCab-Dispatch-1.1.21-build30.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.1.21-build30/CroCab-Dispatch-1.1.21-build30.apk",
-      "sha256": "cccb9a5940c30066a6b32f989c89b80d6f7a333e8fe3d15b229164add3e06354"
+      "version": "1.2.0",
+      "build": 31,
+      "tag": "dispatch-v1.2.0-build31",
+      "asset": "CroCab-Dispatch-1.2.0-build31.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.2.0-build31/CroCab-Dispatch-1.2.0-build31.apk",
+      "sha256": "d2f91b4ea074329ce8f88e8a2173728bc42c4c1f039880a7d3d34db56c147982"
     }
   }
 }
