@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T06:49:13Z",
+  "updatedAt": "2026-08-17T07:43:22Z",
   "products": {
     "customer": {
       "displayName": "CroCab",
-      "version": "1.5.23",
-      "build": 36,
-      "tag": "crocab-v1.5.23-build36",
-      "asset": "CroCab-1.5.23-build36.apk",
-      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.5.23-build36/CroCab-1.5.23-build36.apk",
-      "sha256": "faabdad0842b348a4d347365162ab6c58300252e9bec34aa002c31f6f573a997"
+      "version": "1.6.0",
+      "build": 37,
+      "tag": "crocab-v1.6.0-build37",
+      "asset": "CroCab-1.6.0-build37.apk",
+      "downloadUrl": "https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.6.0-build37/CroCab-1.6.0-build37.apk",
+      "sha256": "cc0339902bc8fcdfa29474a137a20365aa181434475211d76fd3f660e0f57dff"
     },
     "driver": {
       "displayName": "CroCab Driver",
