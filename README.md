@@ -7,9 +7,9 @@ distribuciju potpisanih CroCab Android APK datoteka.
 
 | Aplikacija | Verzija | Namjena | Preuzimanje |
 | --- | --- | --- | --- |
-| CroCab | 1.8.4 (build 43) | Korisnici – naručivanje i rezerviranje vožnje | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.8.4-build43/CroCab-1.8.4-build43.apk) |
-| CroCab Driver | 1.7.5 (build 44) | Ovlašteni CroCab vozači | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.7.5-build44/CroCab-Driver-1.7.5-build44.apk) |
-| CroCab Dispatch | 1.4.4 (build 37) | Ovlašteni dispečeri i administratori | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.4.4-build37/CroCab-Dispatch-1.4.4-build37.apk) |
+| CroCab | 1.8.5 (build 44) | Korisnici – naručivanje i rezerviranje vožnje | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/crocab-v1.8.5-build44/CroCab-1.8.5-build44.apk) |
+| CroCab Driver | 1.7.6 (build 45) | Ovlašteni CroCab vozači | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/driver-v1.7.6-build45/CroCab-Driver-1.7.6-build45.apk) |
+| CroCab Dispatch | 1.4.5 (build 38) | Ovlašteni dispečeri i administratori | [Preuzmi APK](https://github.com/magnamobilitas/crocab-downloads/releases/download/dispatch-v1.4.5-build38/CroCab-Dispatch-1.4.5-build38.apk) |
 
 Sva izdanja i bilješke dostupni su u odjeljku
 [Releases](https://github.com/magnamobilitas/crocab-downloads/releases).
@@ -27,14 +27,14 @@ Sva izdanja i bilješke dostupni su u odjeljku
 <summary>SHA-256 kontrolni zbrojevi</summary>
 
 ```text
-CroCab-1.8.4-build43.apk
-b0095e3eecf8080716b502a600ce3219cac40a900b4101e74ac890d4324957e5
+CroCab-1.8.5-build44.apk
+d6ab21808364a653260dde2963e916490166e39e7164e9431052289dc5cceb2b
 
-CroCab-Driver-1.7.5-build44.apk
-9ff5e65a708a2bdd75b8aea2355d1ff9cc8df6c589997f9934bb7f905eb11c74
+CroCab-Driver-1.7.6-build45.apk
+5c73a2b8993c23942e55cb3657528c72973be59c3604f0c974dfcb150ed35376
 
-CroCab-Dispatch-1.4.4-build37.apk
-6b96f8531dc47335edef58426ed9f3527219a33b74be2f8961b8d4d3696ebc6c
+CroCab-Dispatch-1.4.5-build38.apk
+f2bb55beb8074f34c1e78499279e23aeef3bd2236d6b67e963ce8ec6616a4c88
 ```
 
 </details>
